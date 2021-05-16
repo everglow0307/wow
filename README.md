@@ -68,4 +68,8 @@
 ![이웃의 솜씨 (2)](https://user-images.githubusercontent.com/71758210/114345734-38337800-9b9d-11eb-8e8d-e8dc81598990.png)
 
 
+<br>
+
+# 6. 구현기능 화면
+
 
